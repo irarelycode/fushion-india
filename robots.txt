@@ -1,0 +1,3 @@
+     User-agent: *
+     Allow: /
+     Sitemap: https://irarelycode.github.io/fushion-india/sitemap.xml
